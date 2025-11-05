@@ -13,7 +13,7 @@ Currently Captures:
 
 ## ⚡ Highlights
 <img width="1667" height="493" alt="image" src="https://github.com/user-attachments/assets/eff2fcdf-8709-4480-8214-9124dec8d267" />
-
+**ERRORS ARE BECAUSE MY CAPTCHA SOLVES RAN OUT!!**
 - Very fast checking
 - Bulk account support
 - Clean and accurate results
